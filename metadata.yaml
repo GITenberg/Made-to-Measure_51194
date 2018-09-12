@@ -1,0 +1,40 @@
+_repo: Made-to-Measure_51194
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Woromay, Lawrence
+    aliases:
+    - Woromay, Larry
+    - Woromay, L.
+    birthdate: 1927
+    deathdate: 2007
+    gutenberg_agent_id: '48977'
+    url: http://www.gutenberg.org/2009/agents/48977
+creator:
+  author:
+    agent_name: Gault, William Campbell
+    birthdate: 1910
+    deathdate: 1995
+    gutenberg_agent_id: '35339'
+    url: http://www.gutenberg.org/2009/agents/35339
+    wikipedia: http://en.wikipedia.org/wiki/William_Campbell_Gault
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Made to Measure
+url: http://www.gutenberg.org/ebooks/51194
